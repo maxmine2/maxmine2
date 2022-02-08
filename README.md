@@ -6,7 +6,11 @@ a.k.a. Max Budko, a. k. a. mxbdk
 
 - 🌱 I’m currently learning JS and Python. I also want to learn Assembler and C (C++)
 
-- 💞️ I’m looking to collaborate on diffrent projects, but I prefer my projects.
+- 💞️ I’m looking to collaborate on diffrent projects, but I prefer my own projects.
+
+
+It's been a while since I went there for the last time.
+Having some interesting ideas in my mind, hope I'll get them done =)
 
 ## 📫 How to reach me?
 **It's easy!**
