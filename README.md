@@ -1,6 +1,6 @@
 # Hi! I'm maxmine2
 
-aka Max Budko, aka mxbdk, aka Pickaxes
+aka Max Budko, aka mxbdk, aka Pickaxe
 
 ## 👀 I’m interested in Programming using diffrent things
 
