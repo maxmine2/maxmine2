@@ -23,4 +23,4 @@ Having some interesting ideas in my mind, hope I'll get them done =)
 ## 📫 How to reach me?
 **It's easy!**
 1. Email me [maxmine2](mailto:mbudko2@gmail.com)
-2. Write me in Telegramm: [@mxbdk](https://t.me/mxbdk)
+2. Write me in Telegramm: [@areyoutalkingtoome](https://t.me/areyoutalkingtoome)
