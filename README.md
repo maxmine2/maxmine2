@@ -2,7 +2,7 @@
 
 aka Max Budko, aka mxbdk, aka Pickaxe
 
-## 👀 I’m interested in Programming using diffrent things
+## 👀 I’m interested in Programming
 
 - 🌱 I’m currently learning JS and Python. I also want to learn Assembler and C (C++)
 
