@@ -1,6 +1,7 @@
 # Hi there! I'm Max Budko
 
 aka mxbkd, aka maxmine2 (deprecated nickname)
+
 Welcome to my page! I am a random guy passionate about programming, linguistics and random stuff.
 
 Currently I am interested in Web Development, APIs, Networking and everything conencted to linguistics (from neurolingusics and NLP to studies of Paleosiberian languages)
