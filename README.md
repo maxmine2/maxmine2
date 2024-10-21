@@ -1,13 +1,11 @@
-# Hi! I'm maxmine2
+# Hi there! I'm Max Budko
 
-aka Max Budko, aka mxbdk, aka Pickaxe
+aka mxbkd, aka maxmine2 (deprecated nickname)
+Welcome to my page! I am a random guy passionate about programming, linguistics and random stuff.
 
-I don't visit github often, so you might want to try to contact me somewhere else
+Currently I am interested in Web Development, APIs, Networking and everything conencted to linguistics (from neurolingusics and NLP to studies of Paleosiberian languages)
+At the moment busy with studying at uni and developing ~~social bonds~~ web-project to unite our faculty online and provide reliable online tools made by linguists for linguists — fiplpeople.ru (currently in development, please do not overload the server)
 
-**More ideas soon*
-
-## 📫 How to reach me?
-**It's easy!**
-1. Email me: [click](mailto:max@maxbudko.ru)
+**If you would ever bother to get to me, feel free to do so!**
+1. Email me: [click](mailto:m.budko@g.nsu.ru)
 2. Write me in Telegram: [@areyoutalkingtoome](https://t.me/areyoutalkingtoome)
-3. Ping or just DM me in Discord (iampickaxe)
