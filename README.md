@@ -1,6 +1,6 @@
 # Hi there! I'm Max Budko
 
-aka mxbkd, aka maxmine2 (deprecated nickname)
+aka mxbdk, aka maxmine2 (deprecated nickname)
 
 Welcome to my page! I am a random guy passionate about programming, linguistics and random stuff.
 
